@@ -13,7 +13,7 @@ border-radius: 4px;
 }
 
 .btnWpr {
-  z-index: 100;
+  z-index: 99;
   position: fixed;
   bottom: 0;
   right: 0;
