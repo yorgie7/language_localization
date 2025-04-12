@@ -76,7 +76,7 @@ export default function Navbar(props) {
          
           <div style={{ display: 'flex', flexDirection: 'row' }}>
             <Typography variant="subtitle1" className={classes.name}>
-            {t('navbar.UserName')}
+            {t('Yogesh Bamanier')}
             </Typography>
             <IconButton
               aria-label="account of current user"
