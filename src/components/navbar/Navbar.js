@@ -69,11 +69,7 @@ export default function Navbar(props) {
             onClick={() => {setShowDrawer(true)}}>
             <MenuIcon />
           </IconButton>
-          // <Typography variant="h6" className={classes.title}>
-          //   {t('navbar.name')}
-          // </Typography>
         
-         
           <Button variant="outlined" color='primary' className={classes.blogs}>
             <Link href="/" className={classes.link}>  {t('navbar.Home')} </Link>
           </Button>
