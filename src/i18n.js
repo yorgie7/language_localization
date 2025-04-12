@@ -4,7 +4,7 @@ import { initReactI18next } from "react-i18next";
 const resources = {
   en: {
     translation: {
-      "title": "Bizom Login",
+      "title": "Login to Space",
       "keywords": {
         "email": "Email Address",
         "password": "Password",
@@ -72,7 +72,7 @@ const resources = {
   },
   fr: {
     translation: {
-      "title": "প্রবেশ করুন Bizom",
+      "title": "WorkSpace লগইন করুন",
       "keywords": {
         "email": "ইমেইল ঠিকানা",
         "password": "পাসওয়ার্ড",
@@ -141,7 +141,7 @@ const resources = {
   },
   vie: {
     translation: {
-      "title": "Đăng nhập Bizom",
+      "title": "Đăng nhập không gian làm việc",
       "keywords": {
         "email": "Địa chỉ email",
         "password": "Mật khẩu",
