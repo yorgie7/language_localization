@@ -18,7 +18,7 @@ export default function Menu(props) {
       <div className="sidebar1" >
         <div style={{ display: "flex", flexDirection: "row", paddingLeft: "16px" }}>
           <div className={'logoCtnr'}>
-            <img src={'/images/langIcon.jpg'} alt={"logo"} width={'100px'} />
+            <img src={'/images/langIcon.jpg'} alt={"logo"} width={'48'} />
           </div>
           <button className={"closeBtn"}>X</button>
         </div>
